@@ -46,3 +46,7 @@ Question #10
 How do you merge branches in git?
 Answer
 First you switch to branch you want to merge into say MASTER for example, then you would run command 'git checkout master' then you run command git merge <nameOfbranchBeingMerged>
+
+Question #11
+How do you check the status of the files you are presently working on?
+use command 'git status'
