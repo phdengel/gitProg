@@ -85,3 +85,8 @@ Question #18
 What makes git different than other version control systems?
 Answer
 Conceptually, most other systems store information as a list of file-based changes. These systems (CVS, Subversion, Perforce, Bazaar, and so on) think of the information they keep as a set of files and the changes made to each file over time. Git thinks of its data more like a set of snapshots of a miniature filesystem. Every time you commit, or save the state of your project in Git, it basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot. 
+
+Question #19
+What were the design criteria for git?
+Answer
+Speed, Simple design, Strong support for non-linear development (thousands of parallel branches), Fully distributed and able to handle large projects like the Linux kernel efficiently (speed and data size)
