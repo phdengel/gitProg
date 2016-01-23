@@ -65,3 +65,8 @@ Question #14
 How do you check which branch you presently have checked out?
 Answer
 use command 'git branch'; an asterick will be next to branch you have checked out
+
+Question #15
+What is github?
+Answer
+GitHub is the single largest host for Git repositories, and is the central point of collaboration for millions of developers and projects.located at https://github.com
