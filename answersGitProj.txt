@@ -75,3 +75,8 @@ Question #16
 Why was git created?
 Answer
 In 2002 the developers of Linux kernel project began to use a proprietary DVCS prog called BitKeeper, when the relationship between company that owned BitKeeper and Linux kernel project colapsed, BitKeeper's free-of-charge status was soon revoked. This prompted the developers of the Linux kernel project, and creator of Linux, Linus Torvalds, to create their own tool based on lessons learned, Git was the result. 
+
+Question #17
+What is a typical git workflow?
+Answer
+First You modify your files in your working directory, then you stage those files, adding snapshots of them to your staging area, then finally you do a commit, which takes the files in the staging area and stores that snapshot permanently to your Git directory.
