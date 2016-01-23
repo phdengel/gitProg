@@ -70,3 +70,8 @@ Question #15
 What is github?
 Answer
 GitHub is the single largest host for Git repositories, and is the central point of collaboration for millions of developers and projects.located at https://github.com
+
+Question #16
+Why was git created?
+Answer
+In 2002 the developers of Linux kernel project began to use a proprietary DVCS prog called BitKeeper, when the relationship between company that owned BitKeeper and Linux kernel project colapsed, BitKeeper's free-of-charge status was soon revoked. This prompted the developers of the Linux kernel project, and creator of Linux, Linus Torvalds, to create their own tool based on lessons learned, Git was the result. 
