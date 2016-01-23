@@ -60,3 +60,8 @@ Question #13
 What is the name for the primary branch in git?
 Answer
 MASTER; git init creates master by default and most people don't bother to change it
+
+Question #14
+How do you check which branch you presently have checked out?
+Answer
+use command 'git branch'; an asterick will be next to branch you have checked out
