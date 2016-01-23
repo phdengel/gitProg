@@ -1,3 +1,8 @@
 Question #1 "What is Version Control"
 Answer 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+Question #2 "What is the difference between distributed and centralized version control systems?
+Answer
+centralized version control systems have a single server that contains all the versioned files, and a number of clients that check out files from that central place, whereas with distributed version control systems clients fully mirror the repository, notjust check out the latest snapshot of the files.
+
