@@ -80,3 +80,8 @@ Question #17
 What is a typical git workflow?
 Answer
 First You modify your files in your working directory, then you stage those files, adding snapshots of them to your staging area, then finally you do a commit, which takes the files in the staging area and stores that snapshot permanently to your Git directory.
+
+Question #18
+What makes git different than other version control systems?
+Answer
+Conceptually, most other systems store information as a list of file-based changes. These systems (CVS, Subversion, Perforce, Bazaar, and so on) think of the information they keep as a set of files and the changes made to each file over time. Git thinks of its data more like a set of snapshots of a miniature filesystem. Every time you commit, or save the state of your project in Git, it basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot. 
