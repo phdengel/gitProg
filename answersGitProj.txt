@@ -26,3 +26,8 @@ Question #6
 What is a branch?
 Answer
 Each commit creates a pointer to previous commit, a branch is simply a lightweight movable pointer to one of these commits, creating a new branch creates a new movable pointer.
+
+Question #7
+How long are branches in git supposed to exist?
+Answer
+a branch will exist once created until its deleted manually
