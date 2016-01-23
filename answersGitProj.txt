@@ -90,3 +90,8 @@ Question #19
 What were the design criteria for git?
 Answer
 Speed, Simple design, Strong support for non-linear development (thousands of parallel branches), Fully distributed and able to handle large projects like the Linux kernel efficiently (speed and data size)
+
+Question #20
+How do we view the past of a project with git?
+Answer
+use command 'git log'
