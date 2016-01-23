@@ -95,3 +95,8 @@ Question #20
 How do we view the past of a project with git?
 Answer
 use command 'git log'
+
+Question #21
+How much information, and what kind of information should be in a commit message?
+Answer
+brief description of modifications made and/or new files added or You can just leave default message as is, however an empty message will cancel commit
