@@ -36,3 +36,8 @@ Question #8
 How do you create a branch in git?
 Answer
 use the command git branch <nameOfnewBranch>
+
+Question #9
+How do you switch branches in git?
+Answer
+use command git checkout <nameOfbranch>
