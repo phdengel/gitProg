@@ -50,3 +50,8 @@ First you switch to branch you want to merge into say MASTER for example, then y
 Question #11
 How do you check the status of the files you are presently working on?
 use command 'git status'
+
+Question #12
+How do you add files to the repository?
+Answer
+use command 'git add' then 'git commit'
